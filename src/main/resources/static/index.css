@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background: url(img/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.form-box{
+    position: relative;
+    width: 420px;
+    height: 300px;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(2px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+}
+.inputbox{
+    position: relative;
+    margin: 30px 0;
+    width: 310px;
+    border-bottom: 2px solid #fff;
+}
+.inputbox label{
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 1em;
+    pointer-events: none;
+    transition: .5s;
+}
+input:focus ~ label,
+input:valid ~ label{
+    top: -5px;
+}
+.inputbox input {
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    padding:0 35px 0 5px;
+    color: #fff;
+}
+
+.inputbox ion-icon {
+    position: absolute;
+    right: 8px;
+    color: #fff;
+    font-size: 1.2em;
+    top: 20px;
+}
+
+button{
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.form__final{
+    position: relative;
+    width: 420px;
+    height: 640px;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(2px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box__main{
+    position: relative;
+    margin: 30px 0;
+    width: 310px;
+    border-bottom: 0.5px solid #fff;
+    top: -45px
+}
+.box__main label{
+    position: absolute;
+    top: 7px;
+    left: 25px;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 1em;
+    pointer-events: none;
+}
+
+.box__main ion-icon {
+    position: absolute;
+    left: 0px;
+    color: #fff;
+    font-size: 1.3em;
+    top: -4px;
+    transition: .5s;
+}
+
+h5{
+    position: relative;
+    font-size: 1em;
+    color: #fff;
+    left: 210px;;
+    top: -4px;
+    transition: .5s;
+}
+
+h3{
+    position: relative;
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+    top: -80px;
+
+}
+
+.box__second{
+    position: relative;
+    margin: 30px 0;
+    width: 310px;
+    border-bottom: 0.5px solid #fff;
+    top: -10px
+}
+.box__second label{
+    position: absolute;
+    top: 7px;
+    left: 25px;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 1em;
+    pointer-events: none;
+}
+
+.box__second ion-icon {
+    position: absolute;
+    left: 0px;
+    color: #fff;
+    font-size: 1.3em;
+    top: -4px;
+    transition: .5s;
+}
+
+h1{
+    position: relative;
+    font-size: 1em;
+    color: #fff;
+    left: 210px;;
+    top: -4px;
+    transition: .5s;
+}
+.box__third{
+    position: relative;
+    margin: 30px 0;
+    width: 310px;
+    border-bottom: 0.5px solid #fff;
+    top: 25px
+}
+.box__third label{
+    position: absolute;
+    top: 7px;
+    left: 25px;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 1em;
+    pointer-events: none;
+}
+
+.box__third ion-icon {
+    position: absolute;
+    left: 0px;
+    color: #fff;
+    font-size: 1.3em;
+    top: -4px;
+    transition: .5s;
+}
+
+h6{
+    position: relative;
+    font-size: 1em;
+    color: #fff;
+    left: 210px;;
+    top: -4px;
+    transition: .5s;
+}
+
+.ui-button{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+    top: 40px;
+}

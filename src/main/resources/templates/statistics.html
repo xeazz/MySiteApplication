@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="ISO-8859-1">
+<!--        <link type="text/css" href="../static/index.css" rel="stylesheet">-->
+    <link type="text/css" th:href="@{/index.css}" rel="stylesheet">
+    <title>Stats</title>
+</head>
+<body>
+<section>
+    <div class="form__final">
+        <div class="form__stats">
+            <form action="/" method="get">
+                <h3>REQUEST STATISTICS</h3>
+                <div class="box__main">
+                    <ion-icon name="accessibility-outline"></ion-icon>
+                    <label for="">Name</label>
+                    <h5 th:text="${name}">name</h5>
+                </div>
+                <div class="box__main">
+                    <ion-icon name="battery-charging-outline"></ion-icon>
+                    <label for="">Age</label>
+                    <h5 th:text="${age}">age</h5>
+                </div>
+                <div class="box__second">
+                    <ion-icon name="man-outline"></ion-icon>
+                    <label for="">The oldest</label>
+                    <h1 th:text="${oldName}">name</h1>
+                </div>
+                <div class="box__second">
+                    <ion-icon name="battery-dead-outline"></ion-icon>
+                    <label for="">Biggest age</label>
+                    <h1 th:text="${biggestAge}">biggest age</h1>
+                </div>
+                <div class="box__third">
+                    <ion-icon name="star-outline"></ion-icon>
+                    <label for="">Popular name</label>
+                    <h6 th:text="${popularName}">name</h6>
+                </div>
+                <div class="box__third">
+                    <ion-icon name="stats-chart-outline"></ion-icon>
+                    <label for="">Request counter</label>
+                    <h6 th:text="${count}">count</h6>
+                </div>
+                <button class="ui-button">Retry</button>
+        </div>
+</section>
+</body>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</html>

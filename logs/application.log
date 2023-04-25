@@ -1,0 +1,269 @@
+11:24:46.442 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 2679 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+11:24:46.446 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+11:24:47.648 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:24:47.649 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+11:24:47.750 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:24:48.234 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.442 seconds (process running for 3.388)
+11:24:48.249 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+11:25:08.923 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 2682 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+11:25:08.926 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+11:25:10.058 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:25:10.059 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+11:25:10.163 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:25:10.632 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.297 seconds (process running for 3.029)
+11:25:10.646 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+11:25:18.547 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:25:23.382 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Dima составляет 24 лет
+11:25:23.384 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Njkvbr с возрастом 92 лет
+11:25:23.384 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Njkvbr с возрастом 92 лет
+11:25:23.386 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+11:25:23.387 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+11:25:52.429 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+11:25:52.430 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Njkvbr с возрастом 92 лет
+11:25:52.431 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Njkvbr с возрастом 92 лет
+11:25:52.432 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+11:25:52.433 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+11:26:04.498 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+11:26:04.503 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Njkvbr с возрастом 92 лет
+11:26:04.505 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Njkvbr с возрастом 92 лет
+11:26:04.506 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+11:26:04.509 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+11:26:56.724 [http-nio-8080-exec-9] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь ывывыв с возрастом 21 успешно сохранен!
+11:26:56.725 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя ывывыв отсуствует. Ему сгенерирован возраст 21 лет
+11:26:56.725 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Njkvbr с возрастом 92 лет
+11:26:56.725 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Njkvbr с возрастом 92 лет
+11:26:56.726 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+11:26:56.727 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+12:18:30.547 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 2903 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+12:18:30.553 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+12:18:31.713 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+12:18:31.714 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+12:18:31.814 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+12:18:32.299 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.381 seconds (process running for 3.241)
+12:18:32.312 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+12:18:48.394 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 2906 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+12:18:48.396 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+12:18:49.603 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+12:18:49.604 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+12:18:49.707 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+12:18:50.184 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.518 seconds (process running for 3.332)
+12:18:50.198 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+17:37:38.567 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 5316 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+17:37:38.569 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+17:37:39.500 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:37:39.500 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+17:37:39.574 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:37:39.970 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 1.902 seconds (process running for 2.708)
+17:37:39.975 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+17:37:49.845 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:37:54.600 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+17:37:54.602 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+17:37:54.603 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+17:37:54.605 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:37:54.605 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:38:02.423 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+17:38:02.424 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+17:38:02.424 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+17:38:02.425 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+17:38:02.425 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+17:38:12.474 [http-nio-8080-exec-7] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Иван с возрастом 10 успешно сохранен!
+17:38:12.476 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Иван отсуствует. Ему сгенерирован возраст 10 лет
+17:38:12.476 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Иван с возрастом 10 лет
+17:38:12.479 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Иван с возрастом 10 лет
+17:38:12.480 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+17:38:12.482 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+17:38:17.701 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Иван составляет 10 лет
+17:38:17.702 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Иван с возрастом 10 лет
+17:38:17.702 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Иван с возрастом 10 лет
+17:38:17.703 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+17:38:17.703 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+17:38:21.605 [http-nio-8080-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Иван составляет 10 лет
+17:38:21.607 [http-nio-8080-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Иван с возрастом 10 лет
+17:38:21.608 [http-nio-8080-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Иван с возрастом 10 лет
+17:38:21.608 [http-nio-8080-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Иван с количеством запросов 3
+17:38:21.609 [http-nio-8080-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Иван с количеством запросов 3
+17:38:26.514 [http-nio-8080-exec-3] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Павел с возрастом 101 успешно сохранен!
+17:38:26.518 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Павел отсуствует. Ему сгенерирован возраст 101 лет
+17:38:26.519 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Павел с возрастом 101 лет
+17:38:26.519 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Павел с возрастом 101 лет
+17:38:26.519 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Иван с количеством запросов 3
+17:38:26.520 [http-nio-8080-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Иван с количеством запросов 3
+17:38:31.560 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Павел составляет 101 лет
+17:38:31.562 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Павел с возрастом 101 лет
+17:38:31.563 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Павел с возрастом 101 лет
+17:38:31.564 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Иван с количеством запросов 3
+17:38:31.565 [http-nio-8080-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Иван с количеством запросов 3
+17:38:36.123 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Павел составляет 101 лет
+17:38:36.127 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Павел с возрастом 101 лет
+17:38:36.128 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Павел с возрастом 101 лет
+17:38:36.129 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Иван с количеством запросов 3
+17:38:36.129 [http-nio-8080-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Иван с количеством запросов 3
+17:38:39.795 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Павел составляет 101 лет
+17:38:39.801 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Павел с возрастом 101 лет
+17:38:39.802 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Павел с возрастом 101 лет
+17:38:39.802 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Павел с количеством запросов 4
+17:38:39.802 [http-nio-8080-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Павел с количеством запросов 4
+17:44:17.184 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 6199 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+17:44:17.187 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+17:44:18.269 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:44:18.270 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+17:44:18.351 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:44:18.756 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.114 seconds (process running for 2.883)
+17:44:18.759 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+17:44:27.311 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:44:34.576 [http-nio-8080-exec-2] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Дима с возрастом 58 успешно сохранен!
+17:44:34.576 [http-nio-8080-exec-2] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Дима отсуствует. Ему сгенерирован возраст 58 лет
+17:44:34.577 [http-nio-8080-exec-2] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 58 лет
+17:44:34.578 [http-nio-8080-exec-2] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 58 лет
+17:44:34.580 [http-nio-8080-exec-2] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:34.581 [http-nio-8080-exec-2] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:37.823 [http-nio-8080-exec-4] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Слава с возрастом 13 успешно сохранен!
+17:44:37.824 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Слава отсуствует. Ему сгенерирован возраст 13 лет
+17:44:37.825 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 58 лет
+17:44:37.826 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 58 лет
+17:44:37.827 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:37.829 [http-nio-8080-exec-4] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:41.995 [http-nio-8080-exec-6] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Антон с возрастом 34 успешно сохранен!
+17:44:41.999 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Антон отсуствует. Ему сгенерирован возраст 34 лет
+17:44:41.999 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 58 лет
+17:44:41.999 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 58 лет
+17:44:42.000 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:42.000 [http-nio-8080-exec-6] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:45.353 [http-nio-8080-exec-8] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Петя с возрастом 62 успешно сохранен!
+17:44:45.353 [http-nio-8080-exec-8] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Петя отсуствует. Ему сгенерирован возраст 62 лет
+17:44:45.353 [http-nio-8080-exec-8] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Петя с возрастом 62 лет
+17:44:45.353 [http-nio-8080-exec-8] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Петя с возрастом 62 лет
+17:44:45.354 [http-nio-8080-exec-8] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:45.354 [http-nio-8080-exec-8] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:50.328 [http-nio-8080-exec-10] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Виктор с возрастом 64 успешно сохранен!
+17:44:50.331 [http-nio-8080-exec-10] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Виктор отсуствует. Ему сгенерирован возраст 64 лет
+17:44:50.331 [http-nio-8080-exec-10] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Виктор с возрастом 64 лет
+17:44:50.331 [http-nio-8080-exec-10] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Виктор с возрастом 64 лет
+17:44:50.332 [http-nio-8080-exec-10] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+17:44:50.334 [http-nio-8080-exec-10] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:20:15.252 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 1211 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+21:20:15.255 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+21:20:16.547 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+21:20:16.548 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+21:20:16.651 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+21:20:17.124 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.58 seconds (process running for 3.285)
+21:20:17.127 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+21:20:34.518 [http-nio-5500-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:20:39.099 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+21:20:39.101 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:20:39.102 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:20:39.104 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:20:39.105 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:20:46.810 [http-nio-5500-exec-7] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Dima с возрастом 16 успешно сохранен!
+21:20:46.811 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Dima отсуствует. Ему сгенерирован возраст 16 лет
+21:20:46.811 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 16 лет
+21:20:46.812 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 16 лет
+21:20:46.813 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+21:20:46.813 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+21:21:18.705 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 1229 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+21:21:18.709 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+21:21:19.899 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+21:21:19.899 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+21:21:20.008 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+21:21:20.483 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.362 seconds (process running for 3.191)
+21:21:20.486 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+21:21:26.457 [http-nio-5500-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:21:26.492 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+21:21:26.493 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:21:26.493 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:21:26.494 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:21:26.495 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:21:33.107 [http-nio-5500-exec-3] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Dima с возрастом 81 успешно сохранен!
+21:21:33.108 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Dima отсуствует. Ему сгенерирован возраст 81 лет
+21:21:33.109 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 81 лет
+21:21:33.110 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 81 лет
+21:21:33.111 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+21:21:33.111 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+21:21:47.202 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Dima составляет 81 лет
+21:21:47.207 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 81 лет
+21:21:47.207 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 81 лет
+21:21:47.207 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 2
+21:21:47.208 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 2
+21:21:56.104 [http-nio-5500-exec-7] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Anton с возрастом 66 успешно сохранен!
+21:21:56.105 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Anton отсуствует. Ему сгенерирован возраст 66 лет
+21:21:56.106 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 81 лет
+21:21:56.106 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 81 лет
+21:21:56.106 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 2
+21:21:56.107 [http-nio-5500-exec-7] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 2
+21:22:22.304 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 1234 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+21:22:22.307 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+21:22:23.488 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+21:22:23.488 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+21:22:23.591 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+21:22:24.075 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.357 seconds (process running for 3.035)
+21:22:24.077 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+21:22:37.043 [http-nio-5500-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:22:37.080 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+21:22:37.081 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:22:37.082 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:22:37.083 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:22:37.083 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:22:41.043 [http-nio-5500-exec-3] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Dima с возрастом 104 успешно сохранен!
+21:22:41.044 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Dima отсуствует. Ему сгенерирован возраст 104 лет
+21:22:41.044 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 104 лет
+21:22:41.045 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 104 лет
+21:22:41.046 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+21:22:41.046 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 1
+21:22:44.998 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Dima составляет 104 лет
+21:22:45.004 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 104 лет
+21:22:45.006 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 104 лет
+21:22:45.006 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 2
+21:22:45.006 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 2
+21:23:02.018 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 1240 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+21:23:02.021 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+21:23:03.184 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+21:23:03.184 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+21:23:03.290 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+21:23:03.756 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.308 seconds (process running for 3.091)
+21:23:03.759 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+21:23:09.400 [http-nio-5500-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:23:09.437 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+21:23:09.438 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:23:09.438 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:23:09.439 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:23:09.439 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+21:23:15.802 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+21:23:15.803 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:23:15.804 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+21:23:15.804 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+21:23:15.805 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+21:23:23.148 [http-nio-5500-exec-5] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Dima с возрастом 27 успешно сохранен!
+21:23:23.150 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Dima отсуствует. Ему сгенерирован возраст 27 лет
+21:23:23.151 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 27 лет
+21:23:23.154 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 27 лет
+21:23:23.156 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+21:23:23.157 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+21:23:27.762 [http-nio-5500-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Dima составляет 27 лет
+21:23:27.764 [http-nio-5500-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 27 лет
+21:23:27.770 [http-nio-5500-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 27 лет
+21:23:27.771 [http-nio-5500-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+21:23:27.771 [http-nio-5500-exec-9] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 2
+21:23:41.366 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Dima составляет 27 лет
+21:23:41.371 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 27 лет
+21:23:41.373 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Dima с возрастом 27 лет
+21:23:41.374 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 3
+21:23:41.377 [http-nio-5500-exec-1] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 3
+21:23:46.652 [http-nio-5500-exec-3] INFO  c.e.m.r.SearchRepositoryImpl - Пользователь Anton с возрастом 50 успешно сохранен!
+21:23:46.654 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Пользователя Anton отсуствует. Ему сгенерирован возраст 50 лет
+21:23:46.654 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Anton с возрастом 50 лет
+21:23:46.654 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Anton с возрастом 50 лет
+21:23:46.655 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 3
+21:23:46.655 [http-nio-5500-exec-3] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Dima с количеством запросов 3
+22:41:42.546 [main] INFO  c.example.mysite.MySiteApplication - Starting MySiteApplication using Java 17.0.6 with PID 5417 (/Users/dmitrijvorobev/Desktop/Netology/MySite/target/classes started by dmitrijvorobev in /Users/dmitrijvorobev/Desktop/Netology/MySite)
+22:41:42.552 [main] INFO  c.example.mysite.MySiteApplication - No active profile set, falling back to 1 default profile: "default"
+22:41:43.700 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:41:43.701 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+22:41:43.807 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:41:44.312 [main] INFO  c.example.mysite.MySiteApplication - Started MySiteApplication in 2.474 seconds (process running for 3.442)
+22:41:44.315 [main] INFO  c.e.m.r.SearchRepositoryImpl - Файл инициализирован!
+22:41:57.546 [http-nio-5500-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:43:24.468 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Возраст Дима составляет 6 лет
+22:43:24.471 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+22:43:24.471 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый старый Дима с возрастом 6 лет
+22:43:24.473 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
+22:43:24.473 [http-nio-5500-exec-5] INFO  c.e.mysite.service.SearchServiceImpl - Самый популярный Дима с количеством запросов 1
