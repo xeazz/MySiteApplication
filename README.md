@@ -70,8 +70,8 @@
    
     `docker run -itd --rm --name myapplication -p 5500:5500 myapplication:latest`
 4. В приложении предусмотрен графический интерфейс для удобства использования: 
-  <img src="pic/1.png" alt="Текст с описанием картинки" width="800" height="455"/>
-  <img src="pic/2.png" alt="Текст с описанием картинки" width="800" height="455"/>
+  <img src="pic/1.png" alt="Текст с описанием картинки" width="850" height="455"/>
+  <img src="pic/2.png" alt="Текст с описанием картинки" width="850" height="455"/>
 
 5. Прилождение запускается по адресу `http://localhost:5500/`
 
